@@ -1,0 +1,41 @@
+class SnapchatExecutor {
+    public static void main(String[] args) {
+        Snapchat.signUp("Arun", "Kumar", "arun_snap1", "Snap@101", "arun1@gmail.com", "01/01/2001");
+        Snapchat.signUp("Megha", "Sharma", "megha_snap2", "Snap@102", "megha2@gmail.com", "02/02/2002");
+        Snapchat.signUp("Ravi", "Verma", "ravi_snap3", "Snap@103", "ravi3@gmail.com", "03/03/2000");
+        Snapchat.signUp("Neha", "Patel", "neha_snap4", "Snap@104", "neha4@gmail.com", "04/04/2001");
+        Snapchat.signUp("Kiran", "Reddy", "kiran_snap5", "Snap@105", "kiran5@gmail.com", "05/05/2002");
+        Snapchat.signUp("Pooja", "Nair", "pooja_snap6", "Snap@106", "pooja6@gmail.com", "06/06/2000");
+        Snapchat.signUp("Vikram", "Singh", "vikram_snap7", "Snap@107", "vikram7@gmail.com", "07/07/2001");
+        Snapchat.signUp("Divya", "Iyer", "divya_snap8", "Snap@108", "divya8@gmail.com", "08/08/2002");
+        Snapchat.signUp("Suresh", "Babu", "suresh_snap9", "Snap@109", "suresh9@gmail.com", "09/09/2000");
+        Snapchat.signUp("Anjali", "Menon", "anjali_snap10", "Snap@110", "anjali10@gmail.com", "10/10/2001");
+        Snapchat.signUp("Rahul", "Das", "rahul_snap11", "Snap@111", "rahul11@gmail.com", "11/11/2002");
+        Snapchat.signUp("Swathi", "Rao", "swathi_snap12", "Snap@112", "swathi12@gmail.com", "12/12/2000");
+        Snapchat.signUp("Amit", "Jain", "amit_snap13", "Snap@113", "amit13@gmail.com", "13/01/2001");
+        Snapchat.signUp("Lakshmi", "K", "lakshmi_snap14", "Snap@114", "lakshmi14@gmail.com", "14/02/2002");
+        Snapchat.signUp("Tarun", "Mehta", "tarun_snap15", "Snap@115", "tarun15@gmail.com", "15/03/2000");
+        Snapchat.signUp("Nisha", "Singh", "nisha_snap16", "Snap@116", "nisha16@gmail.com", "16/04/2001");
+        Snapchat.signUp("Manoj", "Yadav", "manoj_snap17", "Snap@117", "manoj17@gmail.com", "17/05/2002");
+        Snapchat.signUp("Komal", "Verma", "komal_snap18", "Snap@118", "komal18@gmail.com", "18/06/2000");
+        Snapchat.signUp("Rohan", "Kapoor", "rohan_snap19", "Snap@119", "rohan19@gmail.com", "19/07/2001");
+        Snapchat.signUp("Bhavana", "R", "bhavana_snap20", "Snap@120", "bhavana20@gmail.com", "20/08/2002");
+        Snapchat.signUp("Sunil", "Arora", "sunil_snap21", "Snap@121", "sunil21@gmail.com", "21/09/2000");
+        Snapchat.signUp("Priyanka", "G", "priya_snap22", "Snap@122", "priya22@gmail.com", "22/10/2001");
+        Snapchat.signUp("Deepak", "Mishra", "deepak_snap23", "Snap@123", "deepak23@gmail.com", "23/11/2002");
+        Snapchat.signUp("Aarti", "N", "aarti_snap24", "Snap@124", "aarti24@gmail.com", "24/12/2000");
+        Snapchat.signUp("Karthik", "Shetty", "karthik_snap25", "Snap@125", "karthik25@gmail.com", "25/01/2001");
+        Snapchat.signUp("Rekha", "Pillai", "rekha_snap26", "Snap@126", "rekha26@gmail.com", "26/02/2002");
+        Snapchat.signUp("Ganesh", "Hegde", "ganesh_snap27", "Snap@127", "ganesh27@gmail.com", "27/03/2000");
+        Snapchat.signUp("Pallavi", "S", "pallavi_snap28", "Snap@128", "pallavi28@gmail.com", "28/04/2001");
+        Snapchat.signUp("Vivek", "Kumar", "vivek_snap29", "Snap@129", "vivek29@gmail.com", "29/05/2002");
+        Snapchat.signUp("Shalini", "Desai", "shalini_snap30", "Snap@130", "shalini30@gmail.com", "30/06/2000");
+        Snapchat.signUp("Ajay", "Rao", "ajay_snap31", "Snap@131", "ajay31@gmail.com", "01/07/2001");
+        Snapchat.signUp("Madhavi", "Patel", "madhavi_snap32", "Snap@132", "madhavi32@gmail.com", "02/08/2002");
+        Snapchat.signUp("Sandeep", "Nair", "sandeep_snap33", "Snap@133", "sandeep33@gmail.com", "03/09/2000");
+        Snapchat.signUp("Anita", "Sharma", "anita_snap34", "Snap@134", "anita34@gmail.com", "04/10/2001");
+        Snapchat.signUp("Ritesh", "Bansal", "ritesh_snap35", "Snap@135", "ritesh35@gmail.com", "05/11/2002");
+        Snapchat.signUp("Neeraj", "Gupta", "neeraj_snap36", "Snap@136", "neeraj36@gmail.com", "06/12/2000");
+        Snapchat.signUp("Sonal", "Jain", "sonal_snap37", "Snap@137", "sonal37@gmail.com", "07/01/2001");
+    }
+}
